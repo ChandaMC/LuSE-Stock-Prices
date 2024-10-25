@@ -15,7 +15,7 @@ By integrating real-time data and dynamic visualizations, this web app aims to f
 
 This project is public, meaning anyone can contribute and help improve the application. Contributions can range from code enhancements and feature additions to documentation improvements. If you're interested in collaborating, please feel free to reach out or submit a pull request!
 
-## Technologies Used
+## Technologies To be Used
 
 The application will be built using the following technologies:
 
