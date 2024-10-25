@@ -24,15 +24,16 @@ The application will be built using the following technologies:
   - **Chart.js**: For rendering interactive charts to visualize stock trends.
   - **HTML & CSS**: For structuring and styling the web app, ensuring a visually appealing user experience.
 
-- **Backend** (optional):
+- **Backend**:
   - **Node.js**: To create a server-side application that can handle API requests and serve data.
   - **Express.js**: A web framework for Node.js, used to build the backend API for fetching stock data.
 
-- **Database** (optional):
-  - **MongoDB** or **PostgreSQL**: For storing historical stock data if needed. MongoDB will allow for flexible schema design, while PostgreSQL provides robust relational capabilities.
+- **Database**:
+  - **MySQL**: For storing historical stock data, enabling efficient management of structured data with robust querying capabilities.
 
 - **API Integration**:
   - **Axios**: To make API calls for fetching real-time stock data from the LuSE API or other financial data providers.
+
 
 ## Project Progress
 
