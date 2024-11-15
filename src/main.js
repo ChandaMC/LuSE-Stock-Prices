@@ -31,3 +31,12 @@ export function setupCounter(element) {
 setupCounter(document.getElementById('counter-value'));
 
 //TIP There's much more in WebStorm to help you be more productive. Press <shortcut actionId="Shift"/> <shortcut actionId="Shift"/> and search for <b>Learn WebStorm</b> to open our learning hub with more things for you to try.
+
+
+/**
+ * Coment documentation
+ */
+
+function setupCounter(element) {
+
+}
