@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2a1c5ce9-0c66-4286-b381-a0e9d53e405e" name="Changes" comment="Pilot">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.prettierrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Guess game.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jest.config.cjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/learn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/myFunction.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/background.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/fonts/JetBrainsMono-Regular.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/fonts/JetBrainsSans-Regular.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/javascript.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/technologies.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/webstorm-icon-logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/webstorm-logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;ChandaMC&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/ChandaMC/LuSE-Stock-Prices.git&quot;,
+    &quot;accountId&quot;: &quot;8a0275e9-c3a9-46e6-81e6-78d2bebcf635&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2nseLJSe6cn822duz0ns0zf9aMg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Jest.adds 1 + 2 to equal 3.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.Guess game.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.learn.js.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;com.codeium.enabled&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;javascript.nodejs.core.library.configured.version&quot;: &quot;23.1.0&quot;,
+    &quot;javascript.nodejs.core.library.typings.version&quot;: &quot;22.9.0&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Chanda/WebstormProjects/LuSE-Stock-Prices&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs.jest.jest_package&quot;: &quot;C:/Users/Chanda/WebstormProjects/LuSE Stock Prices/node_modules/jest&quot;,
+    &quot;nodejs_interpreter_path&quot;: &quot;C:/Program Files/nodejs/node&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Chanda/WebstormProjects/LuSE Stock Prices/src/main.js&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;settings.sync&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Users\\Chanda\\AppData\\Local\\Programs\\WebStorm\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Jest.adds 1 + 2 to equal 3">
+    <configuration name="adds 1 + 2 to equal 3" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/myFunction.test.js" />
+      <test-names>
+        <test-name value="adds 1 + 2 to equal 3" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="Guess game.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Guess game.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="learn.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/learn.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Jest.adds 1 + 2 to equal 3" />
+        <item itemvalue="Node.js.learn.js" />
+        <item itemvalue="Node.js.Guess game.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-WS-243.22562.112" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2a1c5ce9-0c66-4286-b381-a0e9d53e405e" name="Changes" comment="" />
+      <created>1729766153743</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1729766153743</updated>
+      <workItem from="1729766155104" duration="480000" />
+      <workItem from="1729723604030" duration="594000" />
+      <workItem from="1729857229972" duration="127000" />
+      <workItem from="1729866835133" duration="1415000" />
+      <workItem from="1729869763539" duration="1396000" />
+      <workItem from="1730017141068" duration="1779000" />
+      <workItem from="1730108290633" duration="2436000" />
+      <workItem from="1730111001705" duration="14475000" />
+      <workItem from="1730181853944" duration="662000" />
+      <workItem from="1730209888570" duration="604000" />
+      <workItem from="1730210947862" duration="214000" />
+      <workItem from="1730881566709" duration="1249000" />
+      <workItem from="1730902104477" duration="2588000" />
+      <workItem from="1730904719045" duration="965000" />
+      <workItem from="1730966975482" duration="13312000" />
+      <workItem from="1731045903206" duration="325000" />
+      <workItem from="1731421612689" duration="1233000" />
+      <workItem from="1731484221614" duration="937000" />
+      <workItem from="1731485440960" duration="16463000" />
+      <workItem from="1731503444016" duration="4976000" />
+      <workItem from="1731572426268" duration="10209000" />
+      <workItem from="1731653137490" duration="1746000" />
+      <workItem from="1731658481331" duration="4144000" />
+      <workItem from="1731711488492" duration="686000" />
+      <workItem from="1731867729502" duration="760000" />
+      <workItem from="1731912003160" duration="1389000" />
+      <workItem from="1731929912013" duration="1395000" />
+      <workItem from="1731996735753" duration="21000" />
+      <workItem from="1731996792025" duration="1663000" />
+      <workItem from="1735218084638" duration="1247000" />
+      <workItem from="1735219399159" duration="667000" />
+      <workItem from="1735227647557" duration="1685000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Pilot" />
+    <option name="LAST_COMMIT_MESSAGE" value="Pilot" />
+  </component>
+</project>
